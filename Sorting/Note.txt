@@ -1,0 +1,34 @@
+###################################################
+Selection Sorting
+###################################################
+
+Traverse each time to find the minimum one, then swap with the minimum one. (nonrecursive)
+
+Link = https://www.youtube.com/watch?v=8MlHQ2En8c0&list=PLLcZwo6wXDbKoFiNk08syJmJYS5Zhzxo6&index=2
+
+Time : O(n^2)
+Space: O(1)
+
+
+####################################################
+Bubble Sort
+#####################################################
+
+Traverse each time and look for minimum between two adjacent elements and swap it. Like this, the largest one will be pushed to the end of the array. (nonrecursive)
+
+Link : https://www.youtube.com/watch?v=Sbw3Wogx1qY&list=PLLcZwo6wXDbKoFiNk08syJmJYS5Zhzxo6&index=3
+
+Time : O(n^2) worst case
+Space: O(1)
+
+
+########################################################
+Insertion Sorting
+#######################################################
+
+There will be two subsets. One set will be sorted set and the other onw will be unsorted set. Each time, we will take an element and traverse it through the sorted set until the right order is found. (nonrecursive)
+
+Link : https://www.youtube.com/watch?v=_hOHTyaf5II&list=PLLcZwo6wXDbKoFiNk08syJmJYS5Zhzxo6&index=4
+
+Time : O(n^2)
+Space: O(1)
