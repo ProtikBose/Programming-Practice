@@ -1,0 +1,2 @@
+Top Down Traversal - Preorder Traversal (Think From Root)
+Bottom Down Traversal - Postorder Traversal (Think From Children)
